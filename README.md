@@ -2,12 +2,12 @@
   🐍<br>Desafio - 20 Dias de Python
 </h1>
 
-<br><br>
+<br>
 
 <h2 align="center">📍 Sobre o Desafio</h2>
 
 O desafio consiste em um aprendizado intensivo de Python, desde o o básico. A princípio, os materiais de estudo serão os cursos da Alura. Materiais extras poderão ser usados (e provavelmente serão) no decorrer do desafio.
-<br>
+<br><br>
 
 <h2 align="center">✅ Finalidade do Desafio</h2>
 
